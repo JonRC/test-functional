@@ -7,7 +7,7 @@ Clone repository
 `git clone https://github.com/JonRC/test-functional.git`
 
 
-Install dependencie
+Install dependencies
 
 `yarn` or `npm install`
 
