@@ -1,6 +1,6 @@
 # Hayden Stern
 
-## Runing
+## Running
 
 Clone repository
 
