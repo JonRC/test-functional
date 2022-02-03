@@ -22,4 +22,4 @@ Run start
 
 
 ## Logging
-You can uncomment the `console.log` at `src/Service/fakeApi.ts` to see fetched users and, created comment and post
+You can uncomment the `console.log` at `src/Service/fakeApi.ts` to see fetched users, and created comment and post
